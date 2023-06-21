@@ -1,5 +1,5 @@
-def palindrome_(word):
-    return word == word[::-1]
+def palindrome_(slovo):
+    return slovo == slovo[::-1]
 
 
 word = input()
